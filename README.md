@@ -21,6 +21,7 @@ I build models and tools focused on prediction, simulation, and decision-making 
 - Python
 - R
 - Java
+- Matlab
 
 **Core Skills**
 - Statistical modeling & machine learning
